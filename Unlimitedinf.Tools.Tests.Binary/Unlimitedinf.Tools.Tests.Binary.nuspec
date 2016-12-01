@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Unlimitedinf.Tools.Tests.Binary</id>
+    <version>0.1.0</version>
+    <title>Unlimitedinf.Tools.Tests.Binary</title>
+    <authors>UnlimitedInf</authors>
+    <owners>UnlimitedInf</owners>
+    <licenseUrl>https://github.com/tompostler/tools-binary/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/tompostler/tools-binary</projectUrl>
+    <iconUrl>https://unlimitedinf.com/files/unlimitedinf/unlimitedinf.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Binary test artifacts for the Unlimitedinf.Tools package.</description>
+    <releaseNotes>Added some images.</releaseNotes>
+    <copyright>Copyright 2016 UnlimitedInf</copyright>
+    <tags>tools tests binary</tags>
+  </metadata>
+  
+  <files>
+    <file src="images\**\*.*" target="content\images" />
+  </files>
+</package>
